@@ -6,6 +6,11 @@
 
 > Qure 是一套专为 Quantumult X 内策略组而精心设计的图标组。
 
+使用地址
+https://raw.githubusercontent.com/lcDesign/icons/main/QX/Color/Qure.png
+
+![Qure](https://raw.githubusercontent.com/lcDesign/icons/main/QX/Color/Qure.png)
+
 ## 免责声明
 
 Qure 项目内所涉及图标、LOGO 仅为资源共享、学习参考之目的，不保证其合法性、正当性、准确性；切勿使用 Qure 项目做任何商业用途或牟利；
